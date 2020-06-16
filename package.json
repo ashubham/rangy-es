@@ -1,7 +1,7 @@
 {
-    "name": "rangy",
+    "name": "rangy-es",
     "description": "A cross-browser DOM range and selection library",
-    "version": "1.3.1-dev",
+    "version": "1.3.0",
     "author": {
         "name": "Tim Down",
         "email": "tim@timdown.co.uk",
@@ -22,7 +22,7 @@
         "type": "git",
         "url": "https://github.com/timdown/rangy.git"
     },
-    "main": "lib/rangy-core.js",
+    "module": "lib/rangy-core.js",
     "directories": {
         "lib": "./lib"
     },
