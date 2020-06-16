@@ -1,5 +1,5 @@
 {
-    "name": "rangy-es",
+    "name": "range-es",
     "description": "A cross-browser DOM range and selection library",
     "version": "1.3.0",
     "author": {
